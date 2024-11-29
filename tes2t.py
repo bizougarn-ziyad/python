@@ -44,7 +44,7 @@ if choises==1:
     while amount <= 0:
         amount=float(input("enter the a valid amount of deposit -> "))
         os.system('cls')
-    user1.balance=user1.balance+amount
+    user1.balance+=amount
     print("you deposited succefully", amount,"$ \nyour balance is now :",user1.balance,"$")
 
 # Withdrawal Section: User withdraws money from their account        
