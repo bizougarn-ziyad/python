@@ -1,6 +1,7 @@
 / BANK ACCOUNT SYSTEM / 
 
 / Description /
+
 This is a simple Bank Account System implemented in Python. The program allows users to create an account by entering their name and balance, and then interact with the account by performing the following operations :
 
 Deposit funds into the account.
